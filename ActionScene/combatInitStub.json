@@ -1,0 +1,419 @@
+{
+	"crews": [
+		{
+			"id": {
+				"$oid": "5b93ab94762b362950f822c2"
+			},
+			"crew": [
+				{
+					"id": {
+						"$oid": "5bb7b0591c9d440000b40f85"
+					},
+					"role": {
+						"$numberInt": "1"
+					},
+					"position": {
+						"$numberInt": "1"
+					},
+					"isCombat": true,
+					"character": {
+						"_id": {
+							"$oid": "5bb7b0591c9d440000b40f85"
+						},
+						"handle": "Cipher1",
+						"talent": {
+							"$numberInt": "6"
+						},
+						"grit": {
+							"$numberInt": "4"
+						},
+						"cred": {
+							"$numberInt": "6"
+						},
+						"reflex": {
+							"$numberInt": "7"
+						},
+						"focus": {
+							"$numberInt": "3"
+						},
+						"position": {
+							"$numberInt": "3"
+						}
+					}
+				},
+				{
+					"id": {
+						"$oid": "5bb7b3671c9d440000b40f86"
+					},
+					"role": {
+						"$numberInt": "1"
+					},
+					"position": {
+						"$numberInt": "2"
+					},
+					"isCombat": true,
+					"character": {
+						"_id": {
+							"$oid": "5bb7b3671c9d440000b40f86"
+						},
+						"handle": "Cipher2",
+						"talent": {
+							"$numberInt": "8"
+						},
+						"grit": {
+							"$numberInt": "6"
+						},
+						"cred": {
+							"$numberInt": "3"
+						},
+						"reflex": {
+							"$numberInt": "4"
+						},
+						"focus": {
+							"$numberInt": "5"
+						},
+						"position": {
+							"$numberInt": "2"
+						}
+					}
+				},
+				{
+					"id": {
+						"$oid": "5bb7b3a41c9d440000b40f87"
+					},
+					"role": {
+						"$numberInt": "1"
+					},
+					"position": {
+						"$numberInt": "3"
+					},
+					"isCombat": true,
+					"character": {
+						"_id": {
+							"$oid": "5bb7b3a41c9d440000b40f87"
+						},
+						"handle": "Cipher3",
+						"talent": {
+							"$numberInt": "4"
+						},
+						"grit": {
+							"$numberInt": "7"
+						},
+						"cred": {
+							"$numberInt": "9"
+						},
+						"reflex": {
+							"$numberInt": "5"
+						},
+						"focus": {
+							"$numberInt": "8"
+						},
+						"position": {
+							"$numberInt": "4"
+						}
+					}
+				},
+				{
+					"id": {
+						"$oid": "5bb7b42d1c9d440000b40f88"
+					},
+					"role": {
+						"$numberInt": "1"
+					},
+					"position": {
+						"$numberInt": "4"
+					},
+					"isCombat": true,
+					"character": {
+						"_id": {
+							"$oid": "5bb7b42d1c9d440000b40f88"
+						},
+						"handle": "Cipher4",
+						"talent": {
+							"$numberInt": "5"
+						},
+						"grit": {
+							"$numberInt": "5"
+						},
+						"cred": {
+							"$numberInt": "4"
+						},
+						"reflex": {
+							"$numberInt": "9"
+						},
+						"focus": {
+							"$numberInt": "6"
+						},
+						"position": {
+							"$numberInt": "1"
+						}
+					}
+				}
+			],
+			"tactics": [
+				{
+					"_id": {
+						"$oid": "5bbb770d1c9d440000ede71c"
+					},
+					"name": "Tactics Card #1"
+				}
+			]
+		},
+		{
+			"id": {
+				"$oid": "5bb7c8e51c9d440000b40f8d"
+			},
+			"crew": [
+				{
+					"id": {
+						"$oid": "5bb7be591c9d440000b40f89"
+					},
+					"role": {
+						"$numberInt": "1"
+					},
+					"position": {
+						"$numberInt": "1"
+					},
+					"isCombat": true,
+					"character": {
+						"_id": {
+							"$oid": "5bb7be591c9d440000b40f89"
+						},
+						"handle": "Sinjun1",
+						"talent": {
+							"$numberInt": "5"
+						},
+						"grit": {
+							"$numberInt": "4"
+						},
+						"cred": {
+							"$numberInt": "7"
+						},
+						"reflex": {
+							"$numberInt": "9"
+						},
+						"focus": {
+							"$numberInt": "7"
+						}
+					}
+				},
+				{
+					"id": {
+						"$oid": "5bb7be851c9d440000b40f8a"
+					},
+					"role": {
+						"$numberInt": "1"
+					},
+					"position": {
+						"$numberInt": "2"
+					},
+					"isCombat": true,
+					"character": {
+						"_id": {
+							"$oid": "5bb7be851c9d440000b40f8a"
+						},
+						"handle": "Sinjun2",
+						"talent": {
+							"$numberInt": "6"
+						},
+						"grit": {
+							"$numberInt": "3"
+						},
+						"cred": {
+							"$numberInt": "7"
+						},
+						"reflex": {
+							"$numberInt": "3"
+						},
+						"focus": {
+							"$numberInt": "9"
+						}
+					}
+				},
+				{
+					"id": {
+						"$oid": "5bb7c76b1c9d440000b40f8b"
+					},
+					"role": {
+						"$numberInt": "1"
+					},
+					"position": {
+						"$numberInt": "3"
+					},
+					"isCombat": true,
+					"character": {
+						"_id": {
+							"$oid": "5bb7c76b1c9d440000b40f8b"
+						},
+						"handle": "Sinjun3",
+						"talent": {
+							"$numberInt": "4"
+						},
+						"grit": {
+							"$numberInt": "7"
+						},
+						"cred": {
+							"$numberInt": "2"
+						},
+						"reflex": {
+							"$numberInt": "4"
+						},
+						"focus": {
+							"$numberInt": "7"
+						}
+					}
+				},
+				{
+					"id": {
+						"$oid": "5bb7c7e01c9d440000b40f8c"
+					},
+					"role": {
+						"$numberInt": "1"
+					},
+					"position": {
+						"$numberInt": "4"
+					},
+					"isCombat": true,
+					"character": {
+						"_id": {
+							"$oid": "5bb7c7e01c9d440000b40f8c"
+						},
+						"handle": "Sinjun4",
+						"talent": {
+							"$numberInt": "3"
+						},
+						"grit": {
+							"$numberInt": "8"
+						},
+						"cred": {
+							"$numberInt": "2"
+						},
+						"reflex": {
+							"$numberInt": "7"
+						},
+						"focus": {
+							"$numberInt": "8"
+						}
+					}
+				}
+			],
+			"tactics": [
+				{
+					"_id": {
+						"$oid": "5bbb77201c9d440000ede71d"
+					},
+					"name": "Tactics Card #2"
+				}
+			]
+		}
+	],
+	"dealer": {
+		"cards": [
+			{
+				"_id": {
+					"$oid": "5bbb770d1c9d440000ede71c"
+				},
+				"name": "Tactics Card #1"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb77201c9d440000ede71d"
+				},
+				"name": "Tactics Card #2"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb77561c9d440000ede722"
+				},
+				"name": "Tactics Card #7"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb773d1c9d440000ede720"
+				},
+				"name": "Tactics Card #5"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb774c1c9d440000ede721"
+				},
+				"name": "Tactics Card #6"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb772c1c9d440000ede71e"
+				},
+				"name": "Tactics Card #3"
+			}
+		]
+	},
+	"kvstore": {
+		"key": "jsaede863303",
+		"round": 0,
+		"turn": 0,
+		"cards": [
+			{
+				"_id": {
+					"$oid": "5bbb770d1c9d440000ede71c"
+				},
+				"name": "Tactics Card #1"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb77201c9d440000ede71d"
+				},
+				"name": "Tactics Card #2"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb77561c9d440000ede722"
+				},
+				"name": "Tactics Card #7"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb773d1c9d440000ede720"
+				},
+				"name": "Tactics Card #5"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb774c1c9d440000ede721"
+				},
+				"name": "Tactics Card #6"
+			},
+			{
+				"_id": {
+					"$oid": "5bbb772c1c9d440000ede71e"
+				},
+				"name": "Tactics Card #3"
+			}
+		],
+		"order": [
+			{
+				"$oid": "5bb7be591c9d440000b40f89"
+			},
+			{
+				"$oid": "5bb7b42d1c9d440000b40f88"
+			},
+			{
+				"$oid": "5bb7c7e01c9d440000b40f8c"
+			},
+			{
+				"$oid": "5bb7b0591c9d440000b40f85"
+			},
+			{
+				"$oid": "5bb7b3a41c9d440000b40f87"
+			},
+			{
+				"$oid": "5bb7c76b1c9d440000b40f8b"
+			},
+			{
+				"$oid": "5bb7b3671c9d440000b40f86"
+			},
+			{
+				"$oid": "5bb7be851c9d440000b40f8a"
+			}
+		]
+	}
+}
